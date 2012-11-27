@@ -9,3 +9,4 @@ For now, it includes:
 * dist: Mirror the distribution of samples of an input stream.
 * edit: Edit distance (also called Levenshtein distance) between two sequences.
 * heap: Heap implementation.
+* sort: Sorting routines.

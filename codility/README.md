@@ -6,3 +6,4 @@ Codility is a website that gives online programming tests. There are a few demo 
 * `equilibrium.cpp`: 
 
     $ g++ equilibrium.cpp -std=c++0x -o equilibrium
+    $ ./equilibrium
